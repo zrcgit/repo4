@@ -10,6 +10,8 @@ public class Hello {
     public void test(){
         int i = 0;
         i += 10;
+        //hello的结果
+        System.out.println(i);
 
     }
 }
